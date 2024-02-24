@@ -1,0 +1,17 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "An example node RESTful API project: Nodejs, Express and PostgreSQL\r Tutorial: https://www.youtube.com/watch?v=DihOP19LQdg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.3"
+  }
+}
